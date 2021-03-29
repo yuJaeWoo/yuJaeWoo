@@ -1,1 +1,2 @@
-![](https://images.velog.io/images/pp8960/post/b70cfb6b-ab35-47ef-9189-96ca15fe3680/yu%20jae%20woo.gif)
+![유재우](https://user-images.githubusercontent.com/67939789/112807543-ff7ea380-90b2-11eb-9fc5-f15b4ec8dd3e.png)
+
