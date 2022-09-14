@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/React-0A66C2?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.JS-0A66C2?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-0A66C2?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents-0A66C2?style=flat-square&logo=styled-components&logoColor=white"/>
 </br>
 
 🧮 BACK
