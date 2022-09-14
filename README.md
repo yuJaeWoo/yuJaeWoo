@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=header&text=&fontSize=90)
+
 ⌨ ➕ 🎨</br>
 <a href="https://medium.com/painting-mini"><img src="https://img.shields.io/badge/MyBlog-68BC71?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/painting_mini/"><img src="https://img.shields.io/badge/MyHobby-68BC71?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -41,3 +43,7 @@
 
 🧶 How to reach me: </br>
 email: yoo8960@gmail.com
+</br>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer)
