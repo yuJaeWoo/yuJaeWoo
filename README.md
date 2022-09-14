@@ -34,11 +34,14 @@
 </br>
 <img src="https://img.shields.io/badge/VSCode-0A66C2?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebStorm-0A66C2?style=flat-square&logo=webstorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-0A66C2?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0A66C2?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-0A66C2?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/RedisInsight-0A66C2?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-0A66C2?style=flat-square&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sourcetree-0A66C2?style=flat-square&logo=Sourcetree&logoColor=white"/>
 </br>
 
 🧶 How to reach me: </br>
