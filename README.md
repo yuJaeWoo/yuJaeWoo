@@ -44,4 +44,5 @@
 email: yoo8960@gmail.com
 </br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuJaeWoo&show_icons=true&theme=cobalt2)
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer)
