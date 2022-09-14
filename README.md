@@ -1,4 +1,7 @@
 ⌨ ➕ 🎨</br>
+<a href="https://medium.com/painting-mini"><img src="https://img.shields.io/badge/MyBlog-68BC71?style=flat-square&logo=Medium&logoColor=white"/></a>
+<a href="https://www.instagram.com/painting_mini/"><img src="https://img.shields.io/badge/MyHobby-68BC71?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 
 🖍 LANGUAGE
 </br>
